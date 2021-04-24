@@ -1,1 +1,2 @@
 a. Chacon, S.andStraub, B.ProGit.Apress 
+ b. Loeliger,J.andMcCullough,M.VersioncontrolwithGit.O'Reilly. 
