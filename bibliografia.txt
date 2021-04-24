@@ -1,2 +1,3 @@
 a. Chacon, S.andStraub, B.ProGit.Apress 
  b. Loeliger,J.andMcCullough,M.VersioncontrolwithGit.O'Reilly. 
+ c. RyanHodson.Ry'sGitTutorial.Smashwords(2014) 
