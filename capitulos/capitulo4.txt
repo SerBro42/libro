@@ -1,1 +1,2 @@
-Enestecap¡tuloveremosc¢mousarGitHubparaalojarrepositoriosenremoto. 
+Enestecap¡tuloveremosc¢mousarGitHubparaalojarrepositoriosenremoto.
+Paso numero uno: crear un repositorio local. 
