@@ -1,2 +1,3 @@
 Enestecap¡tuloveremosc¢mousarGitHubparaalojarrepositoriosenremoto.
 Paso numero uno: crear un repositorio local. 
+Paso numero dos: ???
